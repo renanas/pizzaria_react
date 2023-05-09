@@ -10,6 +10,9 @@
 -   bcryptjs
 -   jsonwebtoken
 -   dotenv
+-   multer
+
+Não esqueça de rodar o @types de algumas dependencias para ajudar com o TypeScript
 
 Para rodar o migrate  do prisma para o banco de dados é necessario:
 -   Instalar o prisma
